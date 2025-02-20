@@ -47,10 +47,6 @@ int main() {
     DensidadePopulacional2 = populacao2 / area2;
     PibPercapita2 = pib2 / populacao2;
 
-    // Cálculando o vencedor 
-
-    
-
 
 
     // Exibindo as informações da primeira carta
