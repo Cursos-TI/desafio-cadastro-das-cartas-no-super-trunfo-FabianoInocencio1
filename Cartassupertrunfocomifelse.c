@@ -49,6 +49,16 @@ int main() {
     // Cálculo da Densidade Populacional e PIB per capita para o Player 2
     float densidadePopulacional2 = populacao2 / area2;
     float pibPercapita2 = pib2 / populacao2;
+//informações do player 1
+
+printf("\n");
+   
+printf ("**Player 1**\n");
+    
+   printf ("População: %d\n", populacao);
+   printf ("Area:%.5f\n", area);
+   printf ("Pib:%.2f\n", pib);
+   printf("\n");
     
     // Exibe as informações do Player 2
     printf("********************************\n");
