@@ -65,6 +65,7 @@ printf("PIB per capita: %.2f\n", pibPercapita);
 printf("Densidade populacional: %.2f habitantes/km²\n", DensidadePopulacional);  
     printf ("\n");
      // Exibindo informações do jogador 2 (computador)
+     printf("Pontos turisticos %d \n", numeroDeponto2);
     printf("Computador (Jogador 2):\n");
     printf("População: %.0f\n", populacao2);
     printf("Área: %.0f km²\n", area2);
